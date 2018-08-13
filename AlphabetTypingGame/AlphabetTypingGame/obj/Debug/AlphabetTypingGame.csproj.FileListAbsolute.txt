@@ -1,0 +1,32 @@
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe.config
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.pdb
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.GameScreen.resources
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.StartMenu.resources
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.Properties.Resources.resources
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csproj.GenerateResource.Cache
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.exe
+T:\Information Technology\Process Development\Developers\Ashley\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.pdb
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe.config
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.exe
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.pdb
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.pdb
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.GameScreen.resources
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.StartMenu.resources
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.Properties.Resources.resources
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csproj.GenerateResource.Cache
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.HighScores.resources
+C:\Users\aa09\Documents\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csprojResolveAssemblyReference.cache
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe.config
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.exe
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\bin\Debug\AlphabetTypingGame.pdb
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csprojResolveAssemblyReference.cache
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.GameScreen.resources
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.HighScores.resources
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.StartMenu.resources
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.Properties.Resources.resources
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csproj.GenerateResource.cache
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.csproj.CoreCompileInputs.cache
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.exe
+\\userroot\userdata$\ahya\Documents\AlphabetTypingGame\AlphabetTypingGame\AlphabetTypingGame\obj\Debug\AlphabetTypingGame.pdb
